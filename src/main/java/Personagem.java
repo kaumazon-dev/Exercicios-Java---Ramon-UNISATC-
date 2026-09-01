@@ -1,5 +1,3 @@
-package Exercicio1;
-
 public class Personagem {
     private String nome;
     private Integer vida;
